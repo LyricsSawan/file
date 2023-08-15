@@ -1,0 +1,67 @@
+{
+  "name": "ShowsCave",
+  "short_name": "ShowsCave",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aFFQtEd6WwZSYk2sHynqguafCTIyi51g3VkEi7Rr6PdbFgfTIZcMSyTdlNwkwGBaoKXdIc1Jq5rBUmUdyCV6aahF3CVG0VfAGUfTSMDLwk3ammDtA2_Xl0dJDW2rlPB-e1HRByfKPVpnnSrdD_5vtPgpxPoRB79rq7txI25YCXCX4p3ex-IPaBMQnk33/s96/sc-icon-round.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aFFQtEd6WwZSYk2sHynqguafCTIyi51g3VkEi7Rr6PdbFgfTIZcMSyTdlNwkwGBaoKXdIc1Jq5rBUmUdyCV6aahF3CVG0VfAGUfTSMDLwk3ammDtA2_Xl0dJDW2rlPB-e1HRByfKPVpnnSrdD_5vtPgpxPoRB79rq7txI25YCXCX4p3ex-IPaBMQnk33/s192/sc-icon-round.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03R45u2N_BNYJ3P-dGsVUtrlvo-UbQmg2srnm7VbbqQedbW6x_EGT1WAZN_SFntw0KToIuXioz9AQxouEGyXKuPPhOTlBgr5fh2L16mS_ft_UPGtaTRVF2NmJbR1RklAMi_d8cLfQfnq_Hy5DioIgFFSarKQFoxCjnFIYBQePzJ9eD2eQuFuOGXRgoEDi/s192/sc-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aFFQtEd6WwZSYk2sHynqguafCTIyi51g3VkEi7Rr6PdbFgfTIZcMSyTdlNwkwGBaoKXdIc1Jq5rBUmUdyCV6aahF3CVG0VfAGUfTSMDLwk3ammDtA2_Xl0dJDW2rlPB-e1HRByfKPVpnnSrdD_5vtPgpxPoRB79rq7txI25YCXCX4p3ex-IPaBMQnk33/s512/sc-icon-round.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03R45u2N_BNYJ3P-dGsVUtrlvo-UbQmg2srnm7VbbqQedbW6x_EGT1WAZN_SFntw0KToIuXioz9AQxouEGyXKuPPhOTlBgr5fh2L16mS_ft_UPGtaTRVF2NmJbR1RklAMi_d8cLfQfnq_Hy5DioIgFFSarKQFoxCjnFIYBQePzJ9eD2eQuFuOGXRgoEDi/s512/sc-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4332c2",
+  "background_color": "#4332c2",
+  "start_url": "/?utm_source=homescreen&amp;utm_medium=shortcut",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "description": "Explore a vast collection of song lyrics at ShowsCave - your ultimate destination for the latest Hindi, English, Punjabi, and more other songs lyrics.",
+  "lang": "en",
+  "shortcuts": [
+    {
+      "name": "New Songs",
+      "url": "/search?utm_source=jumplist",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aFFQtEd6WwZSYk2sHynqguafCTIyi51g3VkEi7Rr6PdbFgfTIZcMSyTdlNwkwGBaoKXdIc1Jq5rBUmUdyCV6aahF3CVG0VfAGUfTSMDLwk3ammDtA2_Xl0dJDW2rlPB-e1HRByfKPVpnnSrdD_5vtPgpxPoRB79rq7txI25YCXCX4p3ex-IPaBMQnk33/s96/sc-icon-round.png"
+        }
+      ],
+      "description": "Explore newly added songs lyrics"
+    },
+    {
+      "name": "Saved Songs",
+      "url": "/p/bookmark.html?utm_source=jumplist",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3aFFQtEd6WwZSYk2sHynqguafCTIyi51g3VkEi7Rr6PdbFgfTIZcMSyTdlNwkwGBaoKXdIc1Jq5rBUmUdyCV6aahF3CVG0VfAGUfTSMDLwk3ammDtA2_Xl0dJDW2rlPB-e1HRByfKPVpnnSrdD_5vtPgpxPoRB79rq7txI25YCXCX4p3ex-IPaBMQnk33/s96/sc-icon-round.png"
+        }
+      ],
+      "description": "Explore all your saved lyrics"
+    }
+  ],
+  "categories": [
+    "entertainment",
+    "music"
+  ]
+}
