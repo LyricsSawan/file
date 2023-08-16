@@ -32,7 +32,7 @@
   ],
   "theme_color": "#4332c2",
   "background_color": "#4332c2",
-  "start_url": "www.showscave.com",
+  "start_url": "/",
   "id": "/",
   "scope": "/",
   "display": "standalone",
