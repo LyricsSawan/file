@@ -3,24 +3,24 @@
   "short_name": "ShowsCave",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1gJIdApsIBPiOTpWlwptGUuJlidMaml7xXwooDckzHm57dbS1R2JRB05rBfcXoTU5ioAA1htKbnVIMQrV3svcYFFaBHYpRonca6Xtl22VTjpbFsk4OS9B8Yg38SRCGGsDtll_M730Piv8R4ijSr3oA-tIlZYm3q34LbM7z43LY4pVl85ZTw-Shb8PJct/s192/sc-round-icon.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2TOEZjRGGT27QRUuTK7lOEr8i-IGXoskxYVstLDQQ_aqrK0_vb6Qhl55hA_T7Xe-XieiolB37HvimmVoKxiUK-LV4_qmCajIih1KHxCSSSeVZFK5-XPUX8wV73KukwKG5_Jb7qCc4RaEZ5v9Pwzt3zZVyAEo16LoQiembKySkxNoJR3qVo_QtZ2kwOFRM/s192/sc-round-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1gJIdApsIBPiOTpWlwptGUuJlidMaml7xXwooDckzHm57dbS1R2JRB05rBfcXoTU5ioAA1htKbnVIMQrV3svcYFFaBHYpRonca6Xtl22VTjpbFsk4OS9B8Yg38SRCGGsDtll_M730Piv8R4ijSr3oA-tIlZYm3q34LbM7z43LY4pVl85ZTw-Shb8PJct/s512/sc-round-icon.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2TOEZjRGGT27QRUuTK7lOEr8i-IGXoskxYVstLDQQ_aqrK0_vb6Qhl55hA_T7Xe-XieiolB37HvimmVoKxiUK-LV4_qmCajIih1KHxCSSSeVZFK5-XPUX8wV73KukwKG5_Jb7qCc4RaEZ5v9Pwzt3zZVyAEo16LoQiembKySkxNoJR3qVo_QtZ2kwOFRM/s512/sc-round-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
       "purpose": "maskable",
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM4lrgOlYUQP8xS6h3GEkzjKTA_SIV7fyg5mlrnaV_byH_pYUW1-G22_ZuS1_iVXbHKVge4prR5PEZ00vmou9fXFHWGctv8uA7LleIaCaMKJSmrDjVrwODameTMO88IfRlglV__2RwlIopaP5-4ddG29WiXMVuRbZb2zrUF4UwALMlzq-i4zXy1CrWhoLX/s192/sc-maskable-icon.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIYeDWS0Ot5iSq-JHkz4lpWmiGCUA9iyUQ087RIcozKPGODdnqWGdxh5uWTmypZEzfivCUZfTvkGt9dWYTWUgVwWJ-DQs7Q-IxfF57PGY1_A-gDSis2EIoHxNHc0NQHGkL5ZoofJfaRpUypFbJ5iOiRcinwotJ_0RR_E7pnS6gIrdaVpN_tqgDGkwwWq0A/s192/sc-maskable-icon.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
       "purpose": "maskable",
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM4lrgOlYUQP8xS6h3GEkzjKTA_SIV7fyg5mlrnaV_byH_pYUW1-G22_ZuS1_iVXbHKVge4prR5PEZ00vmou9fXFHWGctv8uA7LleIaCaMKJSmrDjVrwODameTMO88IfRlglV__2RwlIopaP5-4ddG29WiXMVuRbZb2zrUF4UwALMlzq-i4zXy1CrWhoLX/s512/sc-maskable-icon.jpg",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIYeDWS0Ot5iSq-JHkz4lpWmiGCUA9iyUQ087RIcozKPGODdnqWGdxh5uWTmypZEzfivCUZfTvkGt9dWYTWUgVwWJ-DQs7Q-IxfF57PGY1_A-gDSis2EIoHxNHc0NQHGkL5ZoofJfaRpUypFbJ5iOiRcinwotJ_0RR_E7pnS6gIrdaVpN_tqgDGkwwWq0A/s512/sc-maskable-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -36,20 +36,20 @@
   "shortcuts": [
     {
       "name": "New Songs",
-      "url": "/search",
+      "url": "https://www.showscave.com/search",
       "icons": [
         {
-          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1gJIdApsIBPiOTpWlwptGUuJlidMaml7xXwooDckzHm57dbS1R2JRB05rBfcXoTU5ioAA1htKbnVIMQrV3svcYFFaBHYpRonca6Xtl22VTjpbFsk4OS9B8Yg38SRCGGsDtll_M730Piv8R4ijSr3oA-tIlZYm3q34LbM7z43LY4pVl85ZTw-Shb8PJct/s96/sc-round-icon.png"
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2TOEZjRGGT27QRUuTK7lOEr8i-IGXoskxYVstLDQQ_aqrK0_vb6Qhl55hA_T7Xe-XieiolB37HvimmVoKxiUK-LV4_qmCajIih1KHxCSSSeVZFK5-XPUX8wV73KukwKG5_Jb7qCc4RaEZ5v9Pwzt3zZVyAEo16LoQiembKySkxNoJR3qVo_QtZ2kwOFRM/s192/sc-round-icon.png"
         }
       ],
       "description": "Explore newly added songs lyrics"
     },
     {
       "name": "Saved Songs",
-      "url": "/p/bookmark.html",
+      "url": "https://www.showscave.com/p/bookmark.html",
       "icons": [
         {
-          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_1gJIdApsIBPiOTpWlwptGUuJlidMaml7xXwooDckzHm57dbS1R2JRB05rBfcXoTU5ioAA1htKbnVIMQrV3svcYFFaBHYpRonca6Xtl22VTjpbFsk4OS9B8Yg38SRCGGsDtll_M730Piv8R4ijSr3oA-tIlZYm3q34LbM7z43LY4pVl85ZTw-Shb8PJct/s96/sc-round-icon.png"
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2TOEZjRGGT27QRUuTK7lOEr8i-IGXoskxYVstLDQQ_aqrK0_vb6Qhl55hA_T7Xe-XieiolB37HvimmVoKxiUK-LV4_qmCajIih1KHxCSSSeVZFK5-XPUX8wV73KukwKG5_Jb7qCc4RaEZ5v9Pwzt3zZVyAEo16LoQiembKySkxNoJR3qVo_QtZ2kwOFRM/s192/sc-round-icon.png"
         }
       ],
       "description": "Explore all your saved lyrics"
